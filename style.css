@@ -1,0 +1,25 @@
+* {
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+}
+
+
+body {
+    padding: 0 5vw;
+}
+
+h1 {
+    text-transform: uppercase;
+    color:bisque;
+}
+
+
+.location {
+    font-style: italic;
+    background-color: darkgrey;
+}
+
+#about {
+    text-align: justify;
+}
